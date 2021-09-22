@@ -1,6 +1,6 @@
 # Compound Operators
 
-Today we will be studying compound operators.
+Today we will be studying compound operators. Use the table below and your knowledge of if statements to complete the problems outlined under tasks.
 
 | Operator | Description |
 | -------- | ------------ |
