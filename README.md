@@ -5,7 +5,7 @@ Today we will be studying compound operators. Use the table below and your knowl
 | Operator | Description |
 | -------- | ------------ |
 | `&&` | AND operator. Returns `true` only when **BOTH** conditions are true. |
-| `||` | AND operator. Returns `true` when ***at least*** one of the conditions is true.        |
+| `||` | OR operator. Returns `true` when ***at least*** one of the conditions is true.        |
 | `!` | NOT operator. Inverses a boolean value.|
 
 
